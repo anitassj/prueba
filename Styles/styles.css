@@ -1,0 +1,31 @@
+/* ------ ESTILO DE TODO EL HTML ------ */
+* {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* fuente */
+    line-height: 1.5; /* interlineado */
+    font-size: 20px; /* tamaño de la fuente */
+    box-sizing: border-box;
+    background-color: black;
+    color: beige;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+.botonRegalo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1300px;
+    height: 570px;
+}
+
+#miBoton {
+    border: none;
+}
+
+#miImagen {
+    width: 200px;
+    height: 200px;
+}
